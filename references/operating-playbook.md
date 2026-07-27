@@ -15,10 +15,12 @@ Do not chase activity for its own sake. A skipped slot is better than a generic 
 
 - Publish one proof-led main post: a demo, real workflow, failure, benchmark, repository, or product artifact.
 - Publish at most one timely reaction when the account has a distinct angle.
-- Add 4–6 useful replies across the day. Spread them across creators and topics.
+- Add 2–3 useful replies across the day. Spread them across creators, topics, and time windows.
 - Avoid more than two original posts in 24 hours until the account has enough audience signal to justify a higher cadence.
 
 Treat these as ceilings, not quotas.
+
+Keep at least six hours between original posts and at least 90 minutes between ordinary replies. One good public action in a session is enough.
 
 ## Find candidates
 
@@ -40,6 +42,15 @@ Work on candidates scoring at least 7/10. Skip a topic when the only contributio
 - Use a thread only for a genuinely sequential tutorial.
 
 Replies must add a detail, question, comparison, correction, or practitioner joke. Never leave praise-only replies such as “Great work” or “This changes everything.”
+
+Behave like a real reader before acting: read the source, inspect the conversation, and understand what has already been said. Do not reply simply because a post is popular.
+
+## Handle links
+
+- Do not put an outbound link in a main post for `@luosilent`.
+- Put a necessary repository, source, or product link in the first self-reply.
+- Keep the main post complete without the link; the reader should understand the point without leaving X.
+- Do not claim that links receive a fixed ranking penalty. Treat link placement as an account editorial rule, not a guaranteed algorithm hack.
 
 ## Publish while the owner is away
 
