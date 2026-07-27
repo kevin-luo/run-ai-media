@@ -11,8 +11,11 @@ Build an account people follow for judgment and lived experience, not a news-fee
 
 Read [references/account-voice.md](references/account-voice.md) before writing for `@luosilent`.
 Read [references/creator-patterns.md](references/creator-patterns.md) when selecting a format, studying creators, or refreshing the voice.
+Read [references/operating-playbook.md](references/operating-playbook.md) for account management, recurring runs, publishing without live supervision, or performance review.
 
 Blend techniques across creators. Never imitate one living writer sentence by sentence, reuse a signature phrase, or invent personal experience.
+
+Before drafting, silently choose two or three functions from the creator library: one opener, one proof device, and optionally one ending. Combine functions from different creators. Do not name this scaffolding in the published copy.
 
 ## Run the workflow
 
@@ -24,6 +27,7 @@ Blend techniques across creators. Never imitate one living writer sentence by se
 2. **Lead with the strongest proof**
    - Rank evidence in this order: the account's verified results, a clearly attributed industry case, a concrete artifact or benchmark, then a useful mechanism.
    - Put the strongest honest number or outcome in the first two sentences. Do not lead a practical post with process language such as “the method is useful.”
+   - When no honest performance number exists, lead with a visible constraint or artifact: “15 seconds,” “six outfits,” “no video model,” a screenshot, a failure frame, or a repository.
    - When using somebody else's result, say whose result it is before connecting it to the account's experiment.
    - Never invent views, followers, revenue, time saved, costs, or production volume. If business results do not exist yet, sell the observable capability and state the missing proof plainly.
 
@@ -42,13 +46,20 @@ Blend techniques across creators. Never imitate one living writer sentence by se
 5. **Write the first draft**
    - Start with a reaction, scene, odd detail, number, or question.
    - Use concrete nouns: product names, buttons, bills, errors, files, screenshots.
+   - Translate specialist shorthand once. Prefer a specific GPU model and count over phrases such as “64 accelerator cards.”
+   - Write for a global timeline. Avoid “tonight,” “this morning,” or an unlabeled “today”; use the release state, an exact date, or a timezone when timing matters.
    - Mix short and medium sentences. Leave some inference to the reader.
    - End with a usable next step, specific question, or clean punchline.
 
 6. **Remove AI voice**
    - Delete news-release openings and generic significance claims.
-   - Ban: “不是……而是……”, “底层逻辑”, “值得关注”, “重磅”, “不难发现”, “总的来说”.
+   - Ban: “不是……而是……”, “底层逻辑”, “值得关注”, “重磅”, “不难发现”, “总的来说”, “这意味着”, “可以说”.
    - Avoid four-part parallel lists, fake quotations, inflated certainty, and unexplained jargon.
+   - Do not force a neat moral or a slogan. Let humor come from a real tension in the artifact, bill, bug, deadline, or workflow.
+   - Prefer a line a practitioner might send to a friend. Reject template punchlines that could fit any product.
+   - Run the product-name swap test: if a sentence still works after replacing the product with any competitor, delete it or add a concrete detail.
+   - Circle abstract nouns such as “能力”, “价值”, “生态”, “场景”, “效率”, and “体验”. Replace them with an action, object, number, error, cost, or result whenever possible.
+   - Avoid perfectly symmetrical paragraphs. Short social copy may sound slightly uneven, as real speech does.
    - Read aloud once. Rewrite anything a person would not say in conversation.
    - Keep one memorable line; cut decorative cleverness around it.
 
@@ -61,6 +72,7 @@ Blend techniques across creators. Never imitate one living writer sentence by se
 8. **Publish carefully**
    - Confirm the final text and media match.
    - For replies, prefer posts less than 12 hours old with visible momentum and room in the comments.
+   - Keep a repository or product call-to-action complete and accurate. If the attached Skill covers content operations rather than video generation, say so.
    - Do not attach product links unless directly useful.
    - After publishing, capture the public URL and exact text.
 
