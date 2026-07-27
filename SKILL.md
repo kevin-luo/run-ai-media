@@ -21,44 +21,50 @@ Blend techniques across creators. Never imitate one living writer sentence by se
    - Record the release time, exact claim, primary link, and one concrete number.
    - Label unverified claims as rumors or leave them out.
 
-2. **Choose the account's contribution**
+2. **Lead with the strongest proof**
+   - Rank evidence in this order: the account's verified results, a clearly attributed industry case, a concrete artifact or benchmark, then a useful mechanism.
+   - Put the strongest honest number or outcome in the first two sentences. Do not lead a practical post with process language such as “the method is useful.”
+   - When using somebody else's result, say whose result it is before connecting it to the account's experiment.
+   - Never invent views, followers, revenue, time saved, costs, or production volume. If business results do not exist yet, sell the observable capability and state the missing proof plainly.
+
+3. **Choose the account's contribution**
    - Pick one: tested result, workflow, failure, cost, product implication, missing detail, or joke.
    - Skip a topic when the account can only repeat the announcement.
    - Prefer one sharp angle over a complete summary.
 
-3. **Select a format**
+4. **Select a format**
    - Hot reply: 2–4 sentences; add a detail, experience, question, or punchline.
    - Main post: hook, proof, judgment, useful implication; usually 80–260 Chinese characters.
    - Practical post: problem scene, 3–5 reproducible steps, one failure mode, one takeaway.
    - Build in Public: real artifact or number, what changed, what happens next.
    - Thread: use only when each post carries a distinct step or piece of evidence.
 
-4. **Write the first draft**
+5. **Write the first draft**
    - Start with a reaction, scene, odd detail, number, or question.
    - Use concrete nouns: product names, buttons, bills, errors, files, screenshots.
    - Mix short and medium sentences. Leave some inference to the reader.
    - End with a usable next step, specific question, or clean punchline.
 
-5. **Remove AI voice**
+6. **Remove AI voice**
    - Delete news-release openings and generic significance claims.
    - Ban: “不是……而是……”, “底层逻辑”, “值得关注”, “重磅”, “不难发现”, “总的来说”.
    - Avoid four-part parallel lists, fake quotations, inflated certainty, and unexplained jargon.
    - Read aloud once. Rewrite anything a person would not say in conversation.
    - Keep one memorable line; cut decorative cleverness around it.
 
-6. **Make the visual earn its place**
+7. **Make the visual earn its place**
    - Use a real screenshot for product proof or a simple diagram for workflows and comparisons.
    - Put one idea on one card. Keep labels shorter than the post.
    - For `@luosilent`, use warm white, charcoal, and acid-lime accents. Avoid blue, red, gradients, fake dashboards, and decorative AI robots.
    - Start from [assets/social-card-template.svg](assets/social-card-template.svg) when a three-step workflow card fits.
 
-7. **Publish carefully**
+8. **Publish carefully**
    - Confirm the final text and media match.
    - For replies, prefer posts less than 12 hours old with visible momentum and room in the comments.
    - Do not attach product links unless directly useful.
    - After publishing, capture the public URL and exact text.
 
-8. **Review**
+9. **Review**
    - Check reach, profile visits, replies, saves, and follows after 2 hours and 24 hours.
    - Record which hook, proof type, and visual were used.
    - Promote repeatable formats; retire weak formats after three fair attempts.
