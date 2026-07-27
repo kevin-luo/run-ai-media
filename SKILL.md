@@ -12,6 +12,7 @@ Build an account people follow for judgment and lived experience, not a news-fee
 Read [references/account-voice.md](references/account-voice.md) before writing for `@luosilent`.
 Read [references/creator-patterns.md](references/creator-patterns.md) when selecting a format, studying creators, or refreshing the voice.
 Read [references/operating-playbook.md](references/operating-playbook.md) for account management, recurring runs, publishing without live supervision, or performance review.
+Read [references/x-recommendations.md](references/x-recommendations.md) for X publishing cadence, recommendation signals, links, and replies.
 
 Blend techniques across creators. Never imitate one living writer sentence by sentence, reuse a signature phrase, or invent personal experience.
 
@@ -72,6 +73,9 @@ Before drafting, silently choose two or three functions from the creator library
 8. **Publish carefully**
    - Confirm the final text and media match.
    - For replies, prefer posts less than 12 hours old with visible momentum and room in the comments.
+   - Do not put outbound links in a main post for `@luosilent`. Put a necessary source, repository, or product link in the first self-reply.
+   - Keep original posts at least six hours apart. In normal operation, publish no more than one original post in 24 hours; use a second only for an unusually strong, time-sensitive topic.
+   - Space ordinary replies by at least 90 minutes. Do not batch several generic replies under adjacent popular posts.
    - Keep a repository or product call-to-action complete and accurate. If the attached Skill covers content operations rather than video generation, say so.
    - Do not attach product links unless directly useful.
    - After publishing, capture the public URL and exact text.
