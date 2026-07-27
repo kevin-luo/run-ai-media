@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#F5F2E8"/>
+  <rect x="92" y="82" width="88" height="14" rx="7" fill="#C8F135"/>
+  <text x="92" y="158" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="34" font-weight="700" fill="#171915">ALUO / AI PRODUCT NOTES</text>
+  <text x="92" y="274" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="72" font-weight="800" fill="#171915">把标题放在这里</text>
+  <text x="94" y="330" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="28" fill="#666A60">一句话解释这张图能帮读者解决什么</text>
+  <line x1="92" y1="390" x2="1508" y2="390" stroke="#171915" stroke-width="3"/>
+  <g font-family="Arial, 'Microsoft YaHei', sans-serif">
+    <rect x="92" y="446" width="430" height="286" rx="22" fill="#FFFFFF" stroke="#171915" stroke-width="3"/>
+    <text x="126" y="506" font-size="24" font-weight="700" fill="#666A60">01</text>
+    <text x="126" y="574" font-size="42" font-weight="800" fill="#171915">第一步</text>
+    <text x="126" y="632" font-size="26" fill="#666A60">放目标或输入</text>
+    <rect x="585" y="446" width="430" height="286" rx="22" fill="#171915"/>
+    <text x="619" y="506" font-size="24" font-weight="700" fill="#C8F135">02</text>
+    <text x="619" y="574" font-size="42" font-weight="800" fill="#FFFFFF">第二步</text>
+    <text x="619" y="632" font-size="26" fill="#D8DBD2">放执行动作</text>
+    <rect x="1078" y="446" width="430" height="286" rx="22" fill="#C8F135" stroke="#171915" stroke-width="3"/>
+    <text x="1112" y="506" font-size="24" font-weight="700" fill="#171915">03</text>
+    <text x="1112" y="574" font-size="42" font-weight="800" fill="#171915">第三步</text>
+    <text x="1112" y="632" font-size="26" fill="#30352B">放验收结果</text>
+  </g>
+  <text x="92" y="824" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="24" fill="#666A60">@luosilent · Internet · Shipping daily</text>
+</svg>
