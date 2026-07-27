@@ -1,4 +1,4 @@
 interface:
   display_name: "AI 自媒体运营"
   short_description: "研究热点、写真人感文案、制作配图并运营 AI 账号"
-  default_prompt: "Use $run-ai-media to turn a current AI topic into a human-sounding post with a useful visual."
+  default_prompt: "使用 $run-ai-media 核验今天最值得写的 AI 话题，给出 3 个方向，再写成有证据、说人话的帖子。"
