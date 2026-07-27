@@ -71,6 +71,43 @@ Use these as composable functions, not identities to impersonate.
 - Best borrowed function: **technical credibility with a low-key punchline**.
 - Risk to avoid: trying too hard to sound clever.
 
+## Workflow demo posts
+
+### William Candillon / @wcandillon
+
+- Lets the finished artifact carry almost the entire post.
+- Uses one short production claim such as the tool that made the piece, then stops.
+- Best borrowed function: **minimal claim + undeniable artifact**.
+- Risk to avoid: a bare claim when the attached result is not visually strong.
+
+### Damola / @I_amDamola
+
+- Opens with a surprising production constraint: one prompt, first output, or no revision.
+- Explains the workflow only after the viewer has seen the result.
+- Best borrowed function: **unexpected constraint + result + compact recipe**.
+- Risk to avoid: claiming a one-shot result after hidden iterations.
+
+### りょー / @cryptoninjanime
+
+- Names the familiar labor that disappeared: no video editor, only natural-language instructions.
+- Lists visible deliverables such as lip sync, effects, subtitles, and reusable components.
+- Best borrowed function: **removed labor + visible capabilities + reuse**.
+- Risk to avoid: saying “fully automated” when manual asset preparation or review was required.
+
+### モグ / @moneymog
+
+- Frames the demo as one input becoming one finished output.
+- Compresses the middle into a readable pipeline: script, voice, edit, export.
+- Best borrowed function: **one input → named stages → one artifact**.
+- Risk to avoid: listing tools without explaining the practical reuse case.
+
+### 伊藤貴將 / @takamasa045
+
+- Connects the demo to a recurring business trigger, such as a website update automatically producing a new promo video.
+- Turns automation into an asset-reuse story instead of a novelty demo.
+- Best borrowed function: **recurring trigger + automatic output + compounding value**.
+- Risk to avoid: promising automatic production before the recurring trigger has been tested.
+
 ## Composite formats
 
 1. **Fresh release**
@@ -106,3 +143,8 @@ Use these as composable functions, not identities to impersonate.
 - [Simon Willison：Ruff 版本更新的项目影响](https://x.com/simonw/status/2081153980294648186)
 - [swyx：AI 自动研究 SEO/AEO](https://x.com/swyx/status/2078244735794413786)
 - [Karpathy：用一句话化解人事猜测](https://x.com/karpathy/status/2081195664479068350)
+- [William Candillon：Remotion 成片一句话证明](https://x.com/wcandillon/status/2015345960491069718)
+- [Damola：一次提示生成宣传片](https://x.com/I_amDamola/status/2040764964084834399)
+- [りょー：不用剪辑软件做视频](https://x.com/cryptoninjanime/status/1955108960060706862)
+- [モグ：文章到解说视频的完整链路](https://x.com/moneymog/status/2022878199819178172)
+- [伊藤貴將：网站更新自动生成宣传片](https://x.com/takamasa045/status/2014697269896085905)
