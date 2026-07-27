@@ -65,6 +65,14 @@ git clone https://github.com/kevin-luo/run-ai-media.git ~/.codex/skills/run-ai-m
 - `使用 $run-ai-media，为这条干货帖设计一张暖白、黑字、酸橙绿点缀的信息卡。`
 - `使用 $run-ai-media，复盘我最近 10 条帖子的钩子、证据和互动表现。`
 
+## 默认运营规则
+
+- 把主帖写完整，不在主帖挂外链；仓库或产品链接放第一条自回复。
+- 正常情况下每天最多一条原创主帖，普通回复至少间隔 90 分钟。
+- 先读原帖和评论区，再决定有没有值得补充的东西。
+- 推荐机制没有固定万能公式：关注停留、视频观看、回复、资料页点击和真实的作者关系，同时避开重复内容与负反馈。
+- 热点不够新、证据不够硬、文案太像模板时，宁可不发。
+
 ## 改成你的账号
 
 打开 `references/account-voice.md`，重点替换这几项：
@@ -85,6 +93,8 @@ git clone https://github.com/kevin-luo/run-ai-media.git ~/.codex/skills/run-ai-m
 | `agents/openai.yaml` | Skill 在 Codex 中的展示信息 |
 | `references/account-voice.md` | 账号定位、语气和禁区 |
 | `references/creator-patterns.md` | 可组合的内容结构和写作模式 |
+| `references/operating-playbook.md` | 持续运营、发帖边界和复盘方法 |
+| `references/x-recommendations.md` | X 公开推荐信号和账号节奏 |
 | `assets/social-card-template.svg` | 可编辑的信息卡模板 |
 
 ## 更新
